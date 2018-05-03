@@ -77,7 +77,7 @@ folktales.insert_state_dictionary_into_database_table(
 )
 ```
 
-## access a database tables as a pandas DataFrame
+## access a database table as a pandas DataFrame
 
 ```Python
 df = folktales.DataFrame_of_database_table(
