@@ -51,7 +51,7 @@ A template state dictionary can be created in the following way:
 folktales.template_state_dictionary()
 ```
 
-This returns a dictionary that features a UUID4 identifier (`uuid.uuid4()`) and a datetime (`datetime.datetime.utcnow()`).
+This returns a dictionary that features a UUID4 identifier (`uuid.uuid4()`) and a UTC datetime (`datetime.datetime.utcnow()`).
 
 A state dictionary can be created at the same time as updating it with an existing dictionary in the following way:
 
