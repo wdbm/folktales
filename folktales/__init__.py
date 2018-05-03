@@ -43,7 +43,7 @@ import pandas as pd
 import technicolor
 
 name        = "folktales"
-__version__ = "2018-05-03T0230Z"
+__version__ = "2018-05-03T0245Z"
 
 log = logging.getLogger(name)
 log.addHandler(technicolor.ColorisingStreamHandler())
