@@ -7,6 +7,7 @@
 # setup
 
 ```Bash
+sudo apt install sqlite
 pip install folktales
 ```
 
